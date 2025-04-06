@@ -3,6 +3,9 @@ Diataxis
 
 *A systematic approach to technical documentation authoring.*
 
+Diataxis, from the ancient greek δῐᾰ́τᾰξῐς: dia (“across”) and taxis
+(“arrangement”).
+
 Source: [Diataxis]
 
 ---
@@ -19,13 +22,6 @@ documentation should itself be organised around the structures of those needs.
 
 ![Four distinct forms of documentation][img1]
 
---- 
-
-> Diataxis, from the ancient greek δῐᾰ́τᾰξῐς: dia (“across”) and taxis
-> (“arrangement”).
-
----
-
 Diataxis solves problems related to documentation *content* (what to write),
 *style* (how to write it) and *architecture* (how to organise it).
 
@@ -35,7 +31,6 @@ straightforward to apply. It doesn’t impose implementation constraints. It
 brings an active principle of quality to documentation that helps maintainers
 think effectively about their own work.
 
----
 
 Contents
 --------
@@ -65,8 +60,6 @@ sets forth the understanding of needs that underpin it.
   * Tutorials and HOWTO guides
   * Reference and explanation
   * Complex hierarchies
-
----
 
 Diataxis is proven in practice. Its principles have been adopted successfully
 in hundreds of documentation projects.
