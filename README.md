@@ -21,7 +21,7 @@ documentation should itself be organised around the structures of those needs.
 
 --- 
 
-> Diataxis, from the Ancient Greek δῐᾰ́τᾰξῐς: dia (“across”) and taxis
+> Diataxis, from the ancient greek δῐᾰ́τᾰξῐς: dia (“across”) and taxis
 > (“arrangement”).
 
 ---
@@ -49,7 +49,7 @@ These pages will help make immediate, concrete sense of the approach.
 
   * Applying Diataxis
   * Tutorials
-  * How-to guides
+  * HOWTO guides
   * Reference
   * Explanation
   * The compass
