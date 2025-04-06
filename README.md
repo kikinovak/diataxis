@@ -3,7 +3,7 @@ Diataxis
 
 *A systematic approach to technical documentation authoring.*
 
-Source: [Diataxis][1]
+Source: [Diataxis]
 
 ---
 
@@ -73,6 +73,6 @@ in hundreds of documentation projects.
 
 ---
 
-[1]: https://diataxis.fr "Diataxis project site"
+[Diataxis]: https://diataxis.fr "Diataxis project site"
 [img1]: img/diataxis.png "Four distinct forms of documentation"
 
