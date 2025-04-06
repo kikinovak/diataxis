@@ -17,7 +17,7 @@ documentation - *tutorials*, *HOWTO guides*, *technical reference* and
 *explanation*.  It places them in a systematic relationship and proposes that
 documentation should itself be organised around the structures of those needs.
 
-![Four distinct forms of documentation][img1]
+![Four distinct forms of documentation][diataxis]
 
 --- 
 
@@ -74,5 +74,5 @@ in hundreds of documentation projects.
 ---
 
 [Diataxis]: https://diataxis.fr "Diataxis project site"
-[img1]: img/diataxis.png "Four distinct forms of documentation"
+[diataxis]: img/diataxis.png "Four distinct forms of documentation"
 
