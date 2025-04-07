@@ -38,7 +38,7 @@ Contents
 The best way to get started with Diataxis is by applying it after reading a
 brief primer.
 
-  * Start here
+  * [Start here]
 
 These pages will help make immediate, concrete sense of the approach.
 
@@ -67,5 +67,6 @@ in hundreds of documentation projects.
 ---
 
 [Diataxis]: https://diataxis.fr "Diataxis project site"
+[Start here]: docs/start-here.md "Start here"
 [img1]: img/diataxis.png "Four distinct forms of documentation"
 

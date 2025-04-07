@@ -131,8 +131,6 @@ vast number of problems in documentation.
 
 > * The map in more detail
 
-[img1]: ../img/diataxis.png "The Diataxis map"
-
 ---
 
 
@@ -176,3 +174,58 @@ informs cognition | application of skill        | reference
 informs cognition | acquisition of skill        | explanation
 
 > * The compass in more detail
+
+---
+
+
+Working
+-------
+
+  1. Consider what you see in the documentation in front of you right now
+     (which might be literally nothing if you haven’t started yet).
+
+  2. Ask: *is there any way in which it could be improved?*
+
+  3. Decide on *one* thing you could do to it right now, however small, that
+     would improve it.
+
+  4. Do that thing.
+
+And then repeat.
+
+That’s it.
+
+> * Diataxis as a guide to work
+
+---
+
+
+Do what you like
+----------------
+
+You can do what you like with Diataxis. You don’t have to believe in it and
+there is no exam. It is a wholly pragmatic approach. I think it’s *true*, but
+what matters is that it actually helps people create better documentation. If
+you find one idea or insight in it that seems to be worthwhile, help yourself
+to that.
+
+There is an extensively elaborated theory around Diataxis, but you don’t need
+to subscribe to it or even read about it. Diataxis doesn’t require a
+commitment to pursue it to a final end.
+
+You can do just one thing, right now, and even if you do nothing else ever
+after, you will at least have made that one improvement. In practice what you
+will find is that each thing you do will give you a clue as to the next thing
+to do - you only need to keep doing them.
+
+
+Get started
+-----------
+
+At this point, you have read everything you need to get started with Diataxis.
+
+You can read more if you want, and eventually you probably should, but you will
+get the most value from the guidance in this website when you turn to it with a
+problem or a question. That’s when it comes alive.
+
+[img1]: ../img/diataxis.png "The Diataxis map"
