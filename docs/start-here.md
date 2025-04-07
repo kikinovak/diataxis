@@ -43,6 +43,5 @@ The instructor must somehow find a way to be present through written
 instruction alone.
 
 > * Tutorials in more detail
-> 
 > * Why tutorials are completely different from HOWTO guides
 
