@@ -62,7 +62,7 @@ A HOWTO guide might be: _How to store cellulose nitrate film_ (in motion
 picture photography) or _How to configure frame profiling_ (in software). Or
 even: _Troubleshooting deployment problems_.
 
-> * How-to guides in more detail
+> * HOWTO guides in more detail
 
 
 ### Reference
