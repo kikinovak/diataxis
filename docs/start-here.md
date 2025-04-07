@@ -20,23 +20,23 @@ The four kinds of documentation
 
 The core idea of Diataxis is that there are fundamentally four identifiable
 kinds of documentation that respond to four different needs. The four kinds
-are: *tutorials*, *HOWTO guides*, *reference* and *explanation*. Each has a
+are: _tutorials_, _HOWTO guides_, _reference_ and _explanation_. Each has a
 different purpose and needs to be written in a different way.
 
 
 ### Tutorials
 
-A **tutorial is a lesson** that takes a student by the hand through a learning
-experience. A tutorial is always *practical*: the user *does* something, under
+A __tutorial is a lesson__ that takes a student by the hand through a learning
+experience. A tutorial is always _practical_: the user _does_ something, under
 the guidance of an instructor. A tutorial is designed around an encounter that
 the learner can make sense of, in which the instructor is responsible for the
 learner’s safety and success.
 
 A driving lesson is a good example of a tutorial. The purpose of the lesson is
 to develop skills and confidence in the student, not to get from A to B. A
-software example could be: *Let’s create a simple game in Python*.
+software example could be: _Let’s create a simple game in Python_.
 
-*The user will learn through what they do* - not because someone has tried to
+_The user will learn through what they do_ - not because someone has tried to
 teach them.
 
 In documentation, the special difficulty is that the instructor is condemned to
@@ -51,32 +51,32 @@ instruction alone.
 ### HOWTO guides
 
 
-**A HOWTO guide addresses a real-world goal or problem** by providing practical
+__A HOWTO guide addresses a real-world goal or problem__ by providing practical
 directions to help the user who is in that situation.
 
 A HOWTO guide always addresses an already-competent user who is expected to be
 able to use the guide to help them get their work done. In contrast to a
-tutorial a HOWTO guide is concerned with *work* rather than *study*.
+tutorial a HOWTO guide is concerned with _work_ rather than _study_.
 
-A HOWTO guide might be: *How to store cellulose nitrate film* (in motion
-picture photography) or *How to configure frame profiling* (in software). Or
-even: *Troubleshooting deployment problems*.
+A HOWTO guide might be: _How to store cellulose nitrate film_ (in motion
+picture photography) or _How to configure frame profiling_ (in software). Or
+even: _Troubleshooting deployment problems_.
 
 > * How-to guides in more detail
 
 
 ### Reference
 
-**Reference guides contain the technical description** - facts - that a user
+__Reference guides contain the technical description__ - facts - that a user
 needs in order to do things correctly: accurate, complete, reliable
 information, free of distraction and interpretation. They contain
-*propositional or theoretical knowledge*, not guides to action.
+_propositional or theoretical knowledge_, not guides to action.
 
-Like a HOWTO guide, reference documentation serves the user who is at *work*,
+Like a HOWTO guide, reference documentation serves the user who is at _work_,
 and it’s up to the user to be sufficiently competent to interpret and use it
 correctly.
 
-*Reference material is neutral*. It is not concerned with what the user is
+_Reference material is neutral_. It is not concerned with what the user is
 doing.  A marine chart could be used by a ship’s navigator to plot a course but
 equally well by a prosecuting magistrate in a legal case.
 
@@ -90,9 +90,9 @@ expect to see the same relationship in the documentation too.
 
 ### Explanation
 
-**Explanatory guides provide context and background**. They serve the need to
+__Explanatory guides provide context and background__. They serve the need to
 understand and put things in a bigger picture. Explanation joins things
-together and helps answer the question *why?*
+together and helps answer the question _why?_
 
 Explanation often needs to circle around its subject and approach it from
 different directions. It can contain opinions and take perspectives.
@@ -105,7 +105,7 @@ Often, writers of tutorials who are anxious that their students should know
 things overload their tutorials with distracting and unhelpful explanation. It
 would be much more useful to give the learner the most minimal explanation
 (“Here, we use HTTPS because it’s safer”) and then link to an in-depth article
-(*Secure communication using HTTPS encryption*) for when the user is ready for
+(_Secure communication using HTTPS encryption_) for when the user is ready for
 it.
 
 > * Explanation in more detail
@@ -139,20 +139,20 @@ The Diataxis compass
 
 As you can see from the map:
 
-  * Tutorials and HOWTO guides are concerned with what the user *does*
-    (**action**).
+  * Tutorials and HOWTO guides are concerned with what the user _does_
+    (__action__).
 
-  * Reference and explanation are about what the user *knows* (**cognition**).
+  * Reference and explanation are about what the user _knows_ (__cognition__).
 
 On the other hand:
 
-  * Tutorials and explanation serve the *acquistion* of skill (the user’s
-    **study**).
+  * Tutorials and explanation serve the _acquistion_ of skill (the user’s
+    __study__).
 
-  * HOWTO guides and reference serve the *application* of skill (the user’s
-    **work**).
+  * HOWTO guides and reference serve the _application_ of skill (the user’s
+    __work__).
 
-But a map doesn’t tell you what to *do* - it’s reference. To guide your action
+But a map doesn’t tell you what to _do_ - it’s reference. To guide your action
 you need a different sort of tool. In this case, a kind of Diataxis compass.
 
 The compass is useful in two different ways.
@@ -184,9 +184,9 @@ Working
   1. Consider what you see in the documentation in front of you right now
      (which might be literally nothing if you haven’t started yet).
 
-  2. Ask: *is there any way in which it could be improved?*
+  2. Ask: _is there any way in which it could be improved?_
 
-  3. Decide on *one* thing you could do to it right now, however small, that
+  3. Decide on _one_ thing you could do to it right now, however small, that
      would improve it.
 
   4. Do that thing.
@@ -204,7 +204,7 @@ Do what you like
 ----------------
 
 You can do what you like with Diataxis. You don’t have to believe in it and
-there is no exam. It is a wholly pragmatic approach. I think it’s *true*, but
+there is no exam. It is a wholly pragmatic approach. I think it’s _true_, but
 what matters is that it actually helps people create better documentation. If
 you find one idea or insight in it that seems to be worthwhile, help yourself
 to that.
