@@ -12,6 +12,8 @@ reflecting on the documentation problems you have encountered.
 > Treat this website as a handbook or a toolbox that you make use of when you
 > need it.
 
+---
+
 
 The four kinds of documentation
 -------------------------------
@@ -109,6 +111,8 @@ it.
 > * Explanation in more detail
 > * Understanding the difference between reference and explanation
 
+---
+
 
 The Diataxis map
 ----------------
@@ -129,3 +133,46 @@ vast number of problems in documentation.
 
 [img1]: ../img/diataxis.png "The Diataxis map"
 
+---
+
+
+The Diataxis compass
+--------------------
+
+As you can see from the map:
+
+  * Tutorials and HOWTO guides are concerned with what the user *does*
+    (**action**).
+
+  * Reference and explanation are about what the user *knows* (**cognition**).
+
+On the other hand:
+
+  * Tutorials and explanation serve the *acquistion* of skill (the user’s
+    **study**).
+
+  * HOWTO guides and reference serve the *application* of skill (the user’s
+    **work**).
+
+But a map doesn’t tell you what to *do* - it’s reference. To guide your action
+you need a different sort of tool. In this case, a kind of Diataxis compass.
+
+The compass is useful in two different ways.
+
+When creating documentation, it helps clarify your own intentions and helps
+make sure you’re actually doing what you think you’re doing.
+
+When looking at documentation, it helps understand what’s going on in it and
+makes problems stand out.
+
+The compass is not nearly as eye-catching as the map, but when you’re at work
+puzzling over a documentation problem it’s what will help you move forward.
+
+If the content... | ...and serves the user's... | ...then it must belong to...
+----------------- | --------------------------- | ----------------------------
+informs action    | acquisition of skill        | a tutorial
+informs action    | application of skill        | a HOWTO guide
+informs cognition | application of skill        | reference
+informs cognition | acquisition of skill        | explanation
+
+> * The compass in more detail
