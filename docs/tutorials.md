@@ -229,4 +229,172 @@ the same thing really does happen again.
 
 > Repetition is not the best teacher - sometimes it’s the _only_ teacher.
 
+
+### Ruthlessly minimise explanation
+
+_A tutorial is not the place for explanation_. In a tutorial, the user is
+focused on correctly following your directions and getting the expected
+results. _Later_, when they are ready, they will seek explanation, but right
+now they are concerned with _doing_. Explanation distracts their attention from
+that and blocks their learning.
+
+For example, it’s quite enough to say something like: _We’re using HTTPS
+because it’s more secure_. There is a place for extended discussion and
+explanation of HTTPS, but not now. Instead, provide a link or reference to that
+explanation so that it’s available but doesn’t get in the way.
+
+Explanation is one of the hardest temptations for a teacher to resist; even
+experienced teachers find it difficult to accept that their students’ learning
+does not depend on explanation. This is perfectly natural. Once we have grasped
+something, we rely on the power of abstraction to frame it to ourselves - and
+that’s how we want to frame it to others. Understanding means grasping general
+ideas, and abstraction is the logical form of understanding - but these are not
+what we need in a tutorial, and it’s not how successful learning or teaching
+works.
+
+One must see it for oneself, to see the focused attention of a student dissolve
+into air when a teacher’s well-intentioned explanation breaks the magic spell
+of learning.
+
+> Explanation is only pertinent at the moment the _user_ wants it. It is not
+> for the documentation author to decide.
+
+
+### ... and focus on the concrete
+
+In a learning situation, your student is in the moment, a moment composed of
+concrete things. You are responsible for setting up and maintaining the
+student’s flow, from one concrete action and result to another.
+
+Focus on _this_ problem, _this_ action, _this_ result, in such a way that you
+lead the learner from step to concrete step.
+
+It might seem that by maintaining focus on the concrete and particular that you
+deny the student the opportunity to see or grasp the larger general patterns,
+but the contrary is true. The one thing our minds do spectacularly well is to
+perceive general patterns from concrete examples. All learning moves in one
+direction: from the concrete and particular towards the general and abstract.
+The latter _will_ emerge from the former.
+
+
+### Ignore options and alternatives
+
+Your job is to guide the learner to a successful conclusion. There may be many
+interesting diversions along the way (different options for the command you’re
+using, different ways to use the API, different approaches to the task you’re
+describing) - ignore them. _Your guidance needs to remain focused on what’s
+required to reach the conclusion_, and everything else can be left for another
+time.
+
+Doing this helps keep your tutorial shorter and crisper and saves both you and
+the reader from having to do extra cognitive work.
+
+
+### Aspire to perfect reliability
+
+All of the above are general principles of pedagogy, but there is a special
+burden on the creator of a tutorial.
+
+A tutorial must inspire confidence. Confidence can only be built up layer by
+layer and is easily shaken. At every stage, when you ask your student to do
+something, they must see the result you promise. A learner who follows your
+directions and doesn’t get the expected results will quickly lose confidence in
+the tutorial, the tutor and themselves.
+
+A teacher who’s there with the learner can rescue them when things go wrong. In
+a tutorial, you can’t do that. Your tutorial ought to be so well constructed
+that things _can’t_ go wrong, that your tutorial works for every user, every
+time.
+
+It’s hard work to create a reliable experience, but that is what you must
+aspire to in creating a tutorial.
+
+Your tutorial will have flaws and gaps, however carefully it is written. You
+won’t discover them all by yourself, you will have to rely on users to discover
+them for you. The only way to learn what they are is by finding out what
+actually happens when users do the tutorial, through extensive testing and
+observation.
+
+> You are required to be present, but condemned to be absent.
+
+---
+
+
+The language of tutorials
+-------------------------
+
+_We..._
+
+> The first-person plural affirms the relationship between tutor and learner:
+> you are not alone; we are in this together.
+
+_In this tutorial, we will..._
+
+> Describe what the learner will accomplish.
+
+_First, do x. Now, do y. Now that you have done y, do z._
+
+> No room for ambiguity or doubt.
+
+_We must always do x before we do y because… (see Explanation for more
+details)._
+
+> Provide minimal explanation of actions in the most basic language possible.
+> Link to more detailed explanation.
+
+_The output should look something like..._
+
+> Give your learner clear expectations.
+
+_Notice that... Remember that... Let’s check..._
+
+> Give your learner plenty of clues to help confirm they are on the right track
+> and orient themselves.
+
+_You have built a secure, three-layer hylomorphic stasis engine..._
+
+> Describe (and admire, in a mild way) what your learner has accomplished.
+
+---
+
+
+Applied to food and cooking
+---------------------------
+
+Someone who has had the experience of teaching a child to cook will understand
+what matters in a tutorial, and just as importantly, the things that don’t
+matter at all.
+
+It really doesn’t matter what the child makes or how correctly they do it. The
+value of a lesson lies in what the child gains, not what they produce.
+
+![Teaching a child to cook][img2]
+
+Success in a cooking lesson with a child is not the culinary outcome or whether
+the child can now repeat the processes on their own. Success is when the child
+acquires the knowledge and skills you were hoping to impart.
+
+It’s a crucial condition of this that the child discovers pleasure in the
+experience of being in the kitchen with you and wants to return to it.
+Learning a skill is never a once and for all matter. Repetition is always
+required.
+
+Meanwhile, the cooking lesson might be framed around the idea of learning how
+to prepare a particular dish, but what we actually need the child to learn
+might be things like: _that we wash our hands before handling food; how to hold
+a knife; why the oil must be hot; what this utensil is called, how to time and
+measure things._
+
+The child learns all this by working alongside you in the kitchen; in its own
+time, at its own pace, __through the activities__ you do together and not from
+the things you say or show.
+
+With a young child, you will often find that the lesson suddenly has to end
+before you’d completed what you set out to do. This is normal and expected;
+children have short attention spans. But as long as the child managed to
+achieve something - however small - and enjoyed doing it, it will have laid
+down something in the construction of its technical expertise, that can be
+returned to and built upon next time.
+
 [img1]: ../img/tutorials.png "Tutorials"
+[img2]: ../img/child-cooking.jpg "Teaching a child to cook"
