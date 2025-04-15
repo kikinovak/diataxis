@@ -1,2 +1,3 @@
-# diataxis
-A systematic approach to technical documentation authoring
+# Diataxis
+
+A systematic approach to technical documentation authoring.
