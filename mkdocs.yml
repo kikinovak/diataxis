@@ -1,1 +1,21 @@
-site_name: My Docs
+---  # mkdocs.yml
+
+site_name: Diataxis
+site_url: https://kikinovak.github.io/diataxis
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: blue grey
+    accent: deep orange
+  logo: assets/microlinux-logo.png
+  favicon: assets/favicon.png
+  font:
+    text: Red Hat Text
+    code: Red Hat Mono
+extra_css:
+  - css/extra.css
+plugins:
+  - privacy
+
+...
