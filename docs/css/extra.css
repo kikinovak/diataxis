@@ -10,3 +10,7 @@ body::before {
   will-change: transform;
   z-index: -1;
 }
+
+hr {
+  background-color: orange;
+}
